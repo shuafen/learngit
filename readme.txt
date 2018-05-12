@@ -6,5 +6,5 @@ Git has a mutable index called stage.
 Git tracks chagnes of files.
 Git branch feature is awesome.
 add some changes to branch dev.
-add more changes to branch dev.
-Git track remote branch.
+Git can merge remote branch by one step.
+But be careful. Maybe use git fetch and git merge will be better.  
