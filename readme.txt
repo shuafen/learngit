@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 Git tracks chagnes of files.
 Git branch feature is awesome.
 add some changes to branch.
+Git track remote branch.
